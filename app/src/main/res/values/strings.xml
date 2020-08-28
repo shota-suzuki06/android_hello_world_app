@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello World App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="send_btn">SEND</string>
+    <string name="clear_btn">CLEAR</string>
+    <string name="warning_message">メッセージを入力してください</string>
+</resources>
